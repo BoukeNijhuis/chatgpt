@@ -6,6 +6,4 @@ public class PrimeNumberGenerator {
      * @return A list of prime numbers.
      */
 
-
 }
-
